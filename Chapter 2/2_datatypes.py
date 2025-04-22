@@ -1,4 +1,5 @@
 a = 1 # a is an integer
+print(a,type(a))
 b = 1.0 # b is a float
 c = "hello" # c is a string
 d = [1, 2, 3] # d is a list
